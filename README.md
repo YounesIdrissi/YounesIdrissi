@@ -1,5 +1,5 @@
 @YounesIdrissi
-Aspiring software engineering and student who is interested in Backend, Frontend, Fullstack, AI/ML, Game Development, Mobile Development, and much more...
+Aspiring software engineer and student who is interested in Backend, Frontend, Fullstack, AI/ML, Game Development, Mobile Development, and much more...
 Learning Python & Java
 Reach me: younesemail0@gmail.com
 
